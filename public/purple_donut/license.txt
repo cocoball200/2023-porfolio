@@ -1,0 +1,11 @@
+Model Information:
+* title:	Purple Donut
+* source:	https://sketchfab.com/3d-models/purple-donut-cda668f176ff41ac94f23a7acb54a800
+* author:	primper (https://sketchfab.com/primper)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Purple Donut" (https://sketchfab.com/3d-models/purple-donut-cda668f176ff41ac94f23a7acb54a800) by primper (https://sketchfab.com/primper) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

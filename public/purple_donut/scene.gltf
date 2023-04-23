@@ -1,0 +1,337 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1896,
+      "max": [
+        2.1339948177337646,
+        2.175363540649414,
+        0.9967421889305115
+      ],
+      "min": [
+        -2.1360127925872803,
+        -2.1604981422424316,
+        -0.16577650606632233
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 22752,
+      "componentType": 5126,
+      "count": 1896,
+      "max": [
+        0.9996321201324463,
+        0.9983975291252136,
+        0.999720573425293
+      ],
+      "min": [
+        -0.9980140924453735,
+        -0.9993896484375,
+        -0.9989359974861145
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1896,
+      "max": [
+        1.0000001192092896,
+        0.9166668057441711
+      ],
+      "min": [
+        4.440892627896218e-16,
+        0.5833333134651184
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 10416,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 45504,
+      "componentType": 5126,
+      "count": 2125,
+      "max": [
+        2.2253010272979736,
+        2.25764799118042,
+        1.0018430948257446
+      ],
+      "min": [
+        -2.2252988815307617,
+        -2.206090211868286,
+        -0.9307982921600342
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 71004,
+      "componentType": 5126,
+      "count": 2125,
+      "max": [
+        0.9984127283096313,
+        0.9999532699584961,
+        0.999793529510498
+      ],
+      "min": [
+        -0.9984127283096313,
+        -0.999760627746582,
+        -0.999995231628418
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 15168,
+      "componentType": 5126,
+      "count": 2125,
+      "max": [
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "min": [
+        4.440892627896218e-16,
+        2.220446313948109e-16
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 41664,
+      "componentType": 5125,
+      "count": 12096,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "primper (https://sketchfab.com/primper)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/purple-donut-cda668f176ff41ac94f23a7acb54a800",
+      "title": "Purple Donut"
+    },
+    "generator": "Sketchfab-12.65.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 90048,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 32168,
+      "byteOffset": 90048,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 96504,
+      "byteOffset": 122216,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 218720,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Material.002",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.41207399999999994,
+          0.06792989999999999,
+          0.5668160000000001,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.4799923780487805
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Material.003",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8,
+          0.508145,
+          0.329265,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.5443978658536586
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Donut-Up_Material.002_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Donut_Material.003_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "5198f99593094792b6cac5f51c37f971.fbx"
+    },
+    {
+      "children": [
+        3,
+        5
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        -81.10341626918903,
+        1.1699786327805794e-05,
+        -70.97628163270193,
+        0.0,
+        -70.60184144769153,
+        -7.281249097155893e-06,
+        80.67554969891629,
+        0.0,
+        2.8473985305499247e-06,
+        77.03089904785092,
+        9.444159312136443e-06,
+        0.0,
+        -0.2333948165178299,
+        7.423480033874512,
+        0.6207799315452576,
+        1.0
+      ],
+      "name": "Donut-Up"
+    },
+    {
+      "mesh": 0,
+      "name": "Donut-Up_Material.002_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        -75.25271238449814,
+        -5.551115546642256e-15,
+        -65.85613718291535,
+        0.0,
+        -65.8561371829141,
+        1.9470720367140276e-05,
+        75.25271238449672,
+        0.0,
+        9.259024252941507e-06,
+        72.20828247070176,
+        -1.0580132995304653e-05,
+        0.0,
+        0.2332756072282791,
+        -10.624861717224121,
+        0.08770469576120377,
+        1.0
+      ],
+      "name": "Donut"
+    },
+    {
+      "mesh": 1,
+      "name": "Donut_Material.003_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

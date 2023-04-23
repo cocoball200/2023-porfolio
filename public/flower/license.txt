@@ -1,0 +1,11 @@
+Model Information:
+* title:	Where Flowers Beget Flowers
+* source:	https://sketchfab.com/3d-models/where-flowers-beget-flowers-8e1f8d13ecbb4ad78807f4af1a291ecf
+* author:	Wren MB (https://sketchfab.com/Wormsnacks)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Where Flowers Beget Flowers" (https://sketchfab.com/3d-models/where-flowers-beget-flowers-8e1f8d13ecbb4ad78807f4af1a291ecf) by Wren MB (https://sketchfab.com/Wormsnacks) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
